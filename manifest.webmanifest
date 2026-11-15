@@ -1,0 +1,22 @@
+{
+  "name": "Island Currency Converter",
+  "short_name": "Island Currency",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#081b29",
+  "theme_color": "#102b3f",
+  "description": "Offline USD to Bahamian and Jamaican currency converter.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
